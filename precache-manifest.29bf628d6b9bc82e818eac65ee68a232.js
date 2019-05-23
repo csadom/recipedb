@@ -4,23 +4,23 @@ self.__precacheManifest = [
     "url": "/recipedb/static/js/runtime~main.7ba0f1b0.js"
   },
   {
-    "revision": "5f63c25d3a9ba49e2650",
-    "url": "/recipedb/static/js/main.c6d82da9.chunk.js"
+    "revision": "485991b8967809a71955",
+    "url": "/recipedb/static/js/main.227fb006.chunk.js"
   },
   {
-    "revision": "57e8683a905aefc148e7",
-    "url": "/recipedb/static/js/2.b0d8c640.chunk.js"
+    "revision": "19659e365f55615c4f60",
+    "url": "/recipedb/static/js/2.cc9f352a.chunk.js"
   },
   {
-    "revision": "5f63c25d3a9ba49e2650",
+    "revision": "485991b8967809a71955",
     "url": "/recipedb/static/css/main.08ae427b.chunk.css"
   },
   {
-    "revision": "57e8683a905aefc148e7",
+    "revision": "19659e365f55615c4f60",
     "url": "/recipedb/static/css/2.4e9dd5c5.chunk.css"
   },
   {
-    "revision": "434af45814c1a8887738704fe5ae8057",
+    "revision": "c6a5fe6c76216496048df2738ec5aaf9",
     "url": "/recipedb/index.html"
   }
 ];
